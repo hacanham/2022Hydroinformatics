@@ -1,4 +1,5 @@
 # 2022Hydroinformatics
 Code and files for 2022 Hydroinformatics Class
 
-## Second level header
+## 20Jan2022
+Added two new files to repository for class participation assignment
